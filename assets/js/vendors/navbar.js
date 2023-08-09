@@ -1,0 +1,1 @@
+$(window).on("scroll",function(){0<$(window).scrollTop()+0?$(".navbar-transparent").addClass("navbar-fixed animate__animated animate__fadeInDown"):$(".navbar-transparent").removeClass("navbar-fixed animate__animated animate__fadeInDown")});

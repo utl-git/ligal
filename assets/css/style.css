@@ -5,3 +5,16 @@
 .bg-gold {
     background-color: #A67C40!important;
 }
+
+.navbar-transparent.navbar-fixed .navbar-nav .nav-link:hover {
+    color: #A67C40 !important;
+}
+
+.navbar-transparent .navbar .dropdown-menu .dropdown-item:hover {
+    background-color: #dbcebc !important;
+    color: #A67C40 !important;
+}
+
+.text-inherit:hover {
+    color: #A67C40 !important;
+}

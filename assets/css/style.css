@@ -1,9 +1,18 @@
+
+.breadcrumb-item a {
+    color: #A67C40!important;
+}
+
 .w-30 {
     width: 30%!important;
 }
 
 .bg-gold {
     background-color: #A67C40!important;
+}
+
+.text-gold {
+    color: #A67C40!important;
 }
 
 .navbar-transparent.navbar-fixed .navbar-nav .nav-link:hover {
@@ -17,4 +26,9 @@
 
 .text-inherit:hover {
     color: #A67C40 !important;
+}
+
+.bg-primary-100 {
+    --rw-bg-opacity: 1;
+    background-color: #dbcebc!important;
 }

@@ -32,3 +32,7 @@
     --rw-bg-opacity: 1;
     background-color: #dbcebc!important;
 }
+
+.navbar-transparent .navbar-brand {
+    filter: none;
+}
